@@ -1,0 +1,183 @@
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\bin\Debug\net8.0-windows\Green Tech Sistema de Gerenciamento.exe
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\bin\Debug\net8.0-windows\Green Tech Sistema de Gerenciamento.deps.json
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\bin\Debug\net8.0-windows\Green Tech Sistema de Gerenciamento.runtimeconfig.json
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\bin\Debug\net8.0-windows\Green Tech Sistema de Gerenciamento.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\bin\Debug\net8.0-windows\Green Tech Sistema de Gerenciamento.pdb
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\obj\Debug\net8.0-windows\Green Tech Sistema de Gerenciamento.csproj.AssemblyReference.cache
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\obj\Debug\net8.0-windows\TELAS.Admin.resources
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\obj\Debug\net8.0-windows\TELAS.Cadastro.resources
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\obj\Debug\net8.0-windows\TELAS.Login.resources
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\obj\Debug\net8.0-windows\Green_Tech_Sistema_de_Gerenciamento.LoginCadastro.resources
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\obj\Debug\net8.0-windows\TELAS.LoginCadstro.resources
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\obj\Debug\net8.0-windows\TELAS.MenuAdmin.resources
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\obj\Debug\net8.0-windows\Green_Tech_Sistema_de_Gerenciamento.Properties.Resources.resources
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\obj\Debug\net8.0-windows\TELAS.TeladeInicio.resources
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\obj\Debug\net8.0-windows\TELAS.TelaPrincipal.resources
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\obj\Debug\net8.0-windows\Green Tech Sistema de Gerenciamento.csproj.GenerateResource.cache
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\obj\Debug\net8.0-windows\Green Tech Sistema de Gerenciamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\obj\Debug\net8.0-windows\Green Tech Sistema de Gerenciamento.AssemblyInfoInputs.cache
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\obj\Debug\net8.0-windows\Green Tech Sistema de Gerenciamento.AssemblyInfo.cs
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\obj\Debug\net8.0-windows\Green Tech Sistema de Gerenciamento.csproj.CoreCompileInputs.cache
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\obj\Debug\net8.0-windows\Green Te.006DF705.Up2Date
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\obj\Debug\net8.0-windows\Green Tech Sistema de Gerenciamento.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\obj\Debug\net8.0-windows\refint\Green Tech Sistema de Gerenciamento.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\obj\Debug\net8.0-windows\Green Tech Sistema de Gerenciamento.pdb
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\obj\Debug\net8.0-windows\Green Tech Sistema de Gerenciamento.genruntimeconfig.cache
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV\TELAS\obj\Debug\net8.0-windows\ref\Green Tech Sistema de Gerenciamento.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\Green Tech Sistema de Gerenciamento.exe
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\Green Tech Sistema de Gerenciamento.deps.json
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\Green Tech Sistema de Gerenciamento.runtimeconfig.json
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\Green Tech Sistema de Gerenciamento.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\Green Tech Sistema de Gerenciamento.pdb
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\obj\Debug\net8.0-windows\Green Tech Sistema de Gerenciamento.csproj.AssemblyReference.cache
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\obj\Debug\net8.0-windows\TELAS.Admin.resources
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\obj\Debug\net8.0-windows\TELAS.Cadastro.resources
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\obj\Debug\net8.0-windows\TELAS.Login.resources
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\obj\Debug\net8.0-windows\Green_Tech_Sistema_de_Gerenciamento.LoginCadastro.resources
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\obj\Debug\net8.0-windows\TELAS.LoginCadstro.resources
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\obj\Debug\net8.0-windows\TELAS.MenuAdmin.resources
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\obj\Debug\net8.0-windows\Green_Tech_Sistema_de_Gerenciamento.Properties.Resources.resources
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\obj\Debug\net8.0-windows\TELAS.TeladeInicio.resources
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\obj\Debug\net8.0-windows\TELAS.TelaPrincipal.resources
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\obj\Debug\net8.0-windows\Green Tech Sistema de Gerenciamento.csproj.GenerateResource.cache
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\obj\Debug\net8.0-windows\Green Tech Sistema de Gerenciamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\obj\Debug\net8.0-windows\Green Tech Sistema de Gerenciamento.AssemblyInfoInputs.cache
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\obj\Debug\net8.0-windows\Green Tech Sistema de Gerenciamento.AssemblyInfo.cs
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\obj\Debug\net8.0-windows\Green Tech Sistema de Gerenciamento.csproj.CoreCompileInputs.cache
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\obj\Debug\net8.0-windows\Green Te.006DF705.Up2Date
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\obj\Debug\net8.0-windows\Green Tech Sistema de Gerenciamento.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\obj\Debug\net8.0-windows\refint\Green Tech Sistema de Gerenciamento.dll
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\obj\Debug\net8.0-windows\Green Tech Sistema de Gerenciamento.pdb
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\obj\Debug\net8.0-windows\Green Tech Sistema de Gerenciamento.genruntimeconfig.cache
+C:\Users\carva\OneDrive\Documentos\FACULDADE\4º SEMESTRE\PIM IV - DESKTOP\TELAS\obj\Debug\net8.0-windows\ref\Green Tech Sistema de Gerenciamento.dll
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\obj\Debug\net8.0-windows\Green Tech Sistema de Gerenciamento.csproj.AssemblyReference.cache
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\obj\Debug\net8.0-windows\TELAS.Cadastro.resources
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\obj\Debug\net8.0-windows\TELAS.Login.resources
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\obj\Debug\net8.0-windows\Green_Tech_Sistema_de_Gerenciamento.Project.Screens.homeScreen.LoginCadastro.resources
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\obj\Debug\net8.0-windows\TELAS.LoginCadstro.resources
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\obj\Debug\net8.0-windows\TELAS.TeladeInicio.resources
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\obj\Debug\net8.0-windows\TELAS.Admin.resources
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\obj\Debug\net8.0-windows\TELAS.MenuAdmin.resources
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\obj\Debug\net8.0-windows\TELAS.TelaPrincipal.resources
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\obj\Debug\net8.0-windows\Green_Tech_Sistema_de_Gerenciamento.Properties.Resources.resources
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\obj\Debug\net8.0-windows\Green Tech Sistema de Gerenciamento.csproj.GenerateResource.cache
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\obj\Debug\net8.0-windows\Green Tech Sistema de Gerenciamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\obj\Debug\net8.0-windows\Green Tech Sistema de Gerenciamento.AssemblyInfoInputs.cache
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\obj\Debug\net8.0-windows\Green Tech Sistema de Gerenciamento.AssemblyInfo.cs
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\obj\Debug\net8.0-windows\Green Tech Sistema de Gerenciamento.csproj.CoreCompileInputs.cache
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\obj\Debug\net8.0-windows\Green Tech Sistema de Gerenciamento.dll
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\obj\Debug\net8.0-windows\refint\Green Tech Sistema de Gerenciamento.dll
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\obj\Debug\net8.0-windows\Green Tech Sistema de Gerenciamento.pdb
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\Green Tech Sistema de Gerenciamento.exe
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\Green Tech Sistema de Gerenciamento.deps.json
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\Green Tech Sistema de Gerenciamento.runtimeconfig.json
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\Green Tech Sistema de Gerenciamento.dll
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\Green Tech Sistema de Gerenciamento.pdb
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\obj\Debug\net8.0-windows\Green Te.006DF705.Up2Date
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\obj\Debug\net8.0-windows\Green Tech Sistema de Gerenciamento.genruntimeconfig.cache
+C:\Users\carva\OneDrive\Área de Trabalho\PIM IV - DESKTOP\PIM IV - DESKTOP\TELAS\obj\Debug\net8.0-windows\ref\Green Tech Sistema de Gerenciamento.dll
