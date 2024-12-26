@@ -8,3 +8,5 @@ para um melhor entendimento leia o manual do usuário.
 O projeto foi desenvolvido em equipe, onde minha função foi a do programador que desenvolvel o sistema, 
 os outros membros da equipe ficaram encarregados de outras tarefas, como: Design visual da aplicação, 
 analise de requisitos, testes, gerenciamento do projeto, etc.
+Esse é projeto é um projeto semestral proposto pela Universidade Paulista - UNIP, onde me formei em 
+Análise e desenvolvimento de sistemas.
